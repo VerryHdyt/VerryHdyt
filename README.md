@@ -1,67 +1,63 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi, I'm **Ferry Hidayat** 👋
 
-###
+**Back-End Developer** | **PHP** | **C++** | **C#** | **MySQL** | **Linux** | **Beginner**
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+I'm a passionate back-end developer from **Serang, Banten, Indonesia**. Currently, I'm learning and building my skills to create efficient, scalable, and high-performance back-end systems. I love working with technology and am excited to expand my knowledge in development.
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+## 🚀 About Me
 
-###
+- 🔭 **Currently learning**: Exploring **PHP**, **C++**, **C#**, and improving my skills with **MySQL** and **Linux**.
+- 🌱 **Learning Path**: Currently focusing on mastering back-end development and learning best practices for building robust and scalable applications.
+- 💬 **Ask me about**: **HTML**, **CSS**, **JavaScript**, **C++**, **C#**, **MySQL**, **Linux**, and anything related to back-end development.
+- 📫 **Reach me**: [ferryh667@gmail.com](mailto:ferryh667@gmail.com)
+- 🌍 **Location**: **Serang, Banten**, **Indonesia**
+  
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🛠️ Tech Stack
 
-###
+### **Languages**:
+- **HTML**, **CSS**, **JavaScript**
+- **C++**, **C#**
 
-<h3 align="left">👩‍💻  About Me</h3>
+### **Databases**:
+- **MySQL**
 
-###
+### **Operating Systems**:
+- **Linux** (Ubuntu, CentOS)
 
-<p align="left">I'm Ferry Hidayat, from Indonesia/Banten<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+## 📂 Featured Projects
 
-<h3 align="left">🛠 Language and tools</h3>
+### [**Project 1**](https://github.com/username/project1)
+- **Technologies**: HTML, CSS, JavaScript
+- **Description**: A simple project demonstrating web front-end development.
 
-###
+### [**Project 2**](https://github.com/username/project2)
+- **Technologies**: C#, MySQL
+- **Description**: A beginner project focused on back-end development using C# and MySQL.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats
 
-<h3 align="left">🔥   My Stats :</h3>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferryhidayat&show_icons=true&theme=tokyonight)
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📫 Connect with Me
 
-###
+- 📧 **Email**: [ferryh667@gmail.com](mailto:ferryh667@gmail.com)
+- 🌐 **Facebook**: [VerryhdyT](https://facebook.com/VerryhdyT)
+- 📸 **Instagram**: [@verrydhyt](https://instagram.com/verrydhyt)
+
+---
+
+### 🌟 Let's Build and Learn Together!
+
+Feel free to explore my projects, ask for help, or just connect to talk about technology. I'm always excited to learn and collaborate!
+
+---
