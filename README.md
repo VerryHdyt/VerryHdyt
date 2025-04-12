@@ -1,101 +1,49 @@
-# Hi, I'm **Ferry Hidayat** 👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-**Back-End Developer** | **PHP** | **MySQL** | **C++** | **C#** | **Linux** Enthusiast
+###
 
-Welcome to my GitHub profile! I’m passionate about building high-performance, scalable back-end systems. With years of experience in development and a love for open-source, I’m constantly learning and improving my skills.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🚀 About Me
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🔭 **Currently working on**: Building scalable back-end systems using **PHP**, **MySQL**, and exploring **C#** and **C++** for more complex solutions.
-- 🌱 **Learning**: Advancing my skills in **API development**, **microservices**, and diving deeper into **Linux** administration.
-- 👯 **Looking to collaborate on**: High-impact back-end projects, **RESTful APIs**, server optimization, and scalable database architectures.
-- 💬 **Ask me about**: **PHP**, **MySQL**, **C++**, **C#**, **Linux**, **API development**, and **web optimization**.
-- 📫 **Reach me**: [ferryhidayat@example.com](mailto:ferryhidayat@example.com)
-- 🌟 **Fun fact**: I thrive in problem-solving situations and believe every challenge is an opportunity to grow.
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 🛠️ Tech Stack
+###
 
-Here’s a breakdown of the technologies and tools that power my development process:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### **Languages**:
-- **PHP** (Laravel, Symfony)
-- **C++** (High-performance systems)
-- **C#** (ASP.NET Core)
-- **JavaScript** (Node.js)
+###
 
-### **Databases**:
-- **MySQL** (Relational databases)
-- **PostgreSQL** (Advanced SQL features)
-- **Redis** (In-memory data storage)
+<br clear="both">
 
-### **Tools & Frameworks**:
-- **Git** & **GitHub** (Version control & collaboration)
-- **Docker** (Containerization)
-- **Laravel** & **Symfony** (PHP frameworks)
-- **ASP.NET Core** (C# framework for robust back-end applications)
-- **Nginx** (Web server and reverse proxy)
-  
-### **Operating Systems**:
-- **Linux** (Ubuntu, CentOS, Debian) - Full-stack Linux user; from server configuration to deployment.
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-### **Cloud**:
-- **AWS** (EC2, S3, RDS)
-- **DigitalOcean** (VPS setup and management)
-
----
-
-## 📂 Featured Projects
-
-Here are some of my most significant contributions to the open-source and development community:
-
-### [**Project 1: PHP API System**](https://github.com/username/project1)
-- **Technologies**: PHP, MySQL, Laravel
-- **Description**: A fully-featured RESTful API built to handle thousands of concurrent requests. Includes authentication, authorization, and rate-limiting.
-- **Link**: [Check out the repo](https://github.com/username/project1)
-
-### [**Project 2: C# Service Layer**](https://github.com/username/project2)
-- **Technologies**: C#, MySQL, ASP.NET Core
-- **Description**: A highly efficient C# service layer for a financial system that processes real-time transactions and maintains data integrity.
-- **Link**: [Explore the code](https://github.com/username/project2)
-
-### [**Project 3: MySQL Performance Optimization**](https://github.com/username/project3)
-- **Technologies**: MySQL, PHP
-- **Description**: A project aimed at optimizing SQL queries and database performance for large-scale applications.
-- **Link**: [Dive into the details](https://github.com/username/project3)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferryhidayat&show_icons=true&theme=radical&count_private=true)
-
----
-
-## 📈 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferryhidayat&theme=radical)
-
----
-
-## 📫 How to Reach Me
-
-I’m always excited to collaborate and connect with fellow developers! Feel free to reach out:
-
-- 📧 **Email**: [ferryhidayat@example.com](mailto:ferryhidayat@example.com)
-- 🌐 **LinkedIn**: [linkedin.com/in/ferryhidayat](https://linkedin.com/in/ferryhidayat)
-- 🐦 **Twitter**: [@ferryhidayat](https://twitter.com/ferryhidayat)
-- 💼 **Portfolio**: [ferryhidayat.com](https://ferryhidayat.com) (If available)
-
----
-
-## 🌟 Let's Build Something Great Together!
-
-Feel free to explore my repositories, reach out for collaborations, or just connect for a chat about tech, Linux, or anything else!
-
----
-
-💻 **Let’s code, create, and innovate!**
+###
