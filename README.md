@@ -1,7 +1,7 @@
-<img width="100%" src="https://i.pinimg.com/1200x/82/c3/c5/82c3c50baee7980a9ae08c017bb669e6.jpg"/>
+
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam95cTAwN2EzcGlqOWhnbXY3NzAzOXN4d2dweHlrNjB3c3o3ZTEyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf1RA1jNSpbbuDE40m/giphy.gif" />
+  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFmbmQ0dThsc2hmODQxdWpwYzN3dmNncnpzOWdocHkyaTZpMnJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dpXcqV8htWx4A/giphy.gif" />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm **Ferry Hidayat**, a passionate **Back-End Developer** from **Serang, Banten**, **Indonesia**.<br><br>- 🔭 I’m currently learning and improving my skills in **C++**, **C#**, **MySQL**, and **Linux**.<br>- 📚 I'm continuously learning more about **back-end technologies** to build scalable and efficient systems.<br>- ⚡ In my free time, I love exploring new programming languages, tinkering with servers, and building small projects to improve my coding skills.</p>
+<p align="left">I'm Ferry Hidayat, a passionate Back-End Developer from Serang, Banten, Indonesia.<br><br>- 🔭 I’m currently learning and improving my skills in C++, C#, MySQL, and Linux.<br>- 📚 I'm continuously learning more about back-end technologies to build scalable and efficient systems.<br>- ⚡ In my free time, I love exploring new programming languages, tinkering with servers, and building small projects to improve my coding skills.</p>
 
 ###
 
