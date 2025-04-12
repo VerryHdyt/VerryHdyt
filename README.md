@@ -1,108 +1,67 @@
-# Hi, I'm **Ferry Hidayat** 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-**Back-End Developer** | **PHP** | **MySQL** | **C++** | **C#** | **Linux** Enthusiast
+###
 
-Welcome to my GitHub profile! I’m passionate about building high-performance, scalable back-end systems. With years of experience in development and a love for open-source, I’m constantly learning and improving my skills.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
----
+###
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-- 🔭 **Currently working on**: Building scalable back-end systems using **PHP**, **MySQL**, and exploring **C#** and **C++** for more complex solutions.
-- 🌱 **Learning**: Advancing my skills in **API development**, **microservices**, and diving deeper into **Linux** administration.
-- 💬 **Ask me about**: **PHP**, **MySQL**, **C++**, **C#**, **Linux**, **API development**, and **web optimization**.
-- 📫 **Reach me**: [ferryhidayat@example.com](mailto:ferryhidayat@example.com)
-- 🌟 **Fun fact**: I thrive in problem-solving situations and believe every challenge is an opportunity to grow.
+###
 
----
+<h1 align="center">hey there 👋</h1>
 
-## 🛠️ Tech Stack
+###
 
-Here’s a breakdown of the technologies and tools that power my development process:
+<h3 align="left">👩‍💻  About Me</h3>
 
-### **Languages**:
-- **PHP** (Laravel, Symfony)
-- **C++** (High-performance systems)
-- **C#** (ASP.NET Core)
-- **JavaScript** (Node.js)
+###
 
-### **Databases**:
-- **MySQL** (Relational databases)
-- **PostgreSQL** (Advanced SQL features)
-- **Redis** (In-memory data storage)
+<p align="left">I'm Ferry Hidayat, from Indonesia/Banten<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-### **Tools & Frameworks**:
-- **Git** & **GitHub** (Version control & collaboration)
-- **Docker** (Containerization)
-- **Laravel** & **Symfony** (PHP frameworks)
-- **ASP.NET Core** (C# framework for robust back-end applications)
-- **Nginx** (Web server and reverse proxy)
+###
 
-### **Operating Systems**:
-- **Linux** (Ubuntu, CentOS, Debian) - Full-stack Linux user; from server configuration to deployment.
+<h3 align="left">🛠 Language and tools</h3>
 
-### **Cloud**:
-- **AWS** (EC2, S3, RDS)
-- **DigitalOcean** (VPS setup and management)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-## 🐍 **Snake Game Animation**
+###
 
-### Here's a little fun Snake game animation to lighten the mood while browsing! 🎮
+<h3 align="left">🔥   My Stats :</h3>
 
-![Snake Animation](https://raw.githubusercontent.com/Platane/snk/master/docs/snake.gif)
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-## 📂 Featured Projects
-
-Here are some of my most significant contributions to the open-source and development community:
-
-### [**Project 1: PHP API System**](https://github.com/username/project1)
-- **Technologies**: PHP, MySQL, Laravel
-- **Description**: A fully-featured RESTful API built to handle thousands of concurrent requests. Includes authentication, authorization, and rate-limiting.
-- **Link**: [Check out the repo](https://github.com/username/project1)
-
-### [**Project 2: C# Service Layer**](https://github.com/username/project2)
-- **Technologies**: C#, MySQL, ASP.NET Core
-- **Description**: A highly efficient C# service layer for a financial system that processes real-time transactions and maintains data integrity.
-- **Link**: [Explore the code](https://github.com/username/project2)
-
-### [**Project 3: MySQL Performance Optimization**](https://github.com/username/project3)
-- **Technologies**: MySQL, PHP
-- **Description**: A project aimed at optimizing SQL queries and database performance for large-scale applications.
-- **Link**: [Dive into the details](https://github.com/username/project3)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferryhidayat&show_icons=true&theme=radical&count_private=true)
-
----
-
-## 📈 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferryhidayat&theme=radical)
-
----
-
-## 📫 How to Reach Me
-
-I’m always excited to collaborate and connect with fellow developers! Feel free to reach out:
-
-- 📧 **Email**: [ferryhidayat@example.com](mailto:ferryhidayat@example.com)
-- 🌐 **LinkedIn**: [linkedin.com/in/ferryhidayat](https://linkedin.com/in/ferryhidayat)
-- 🐦 **Twitter**: [@ferryhidayat](https://twitter.com/ferryhidayat)
-- 💼 **Portfolio**: [ferryhidayat.com](https://ferryhidayat.com) (If available)
-
----
-
-## 🌟 Let's Build Something Great Together!
-
-Feel free to explore my repositories, reach out for collaborations, or just connect for a chat about tech, Linux, or anything else!
-
----
-
-💻 **Let’s code, create, and innovate!**
+###
