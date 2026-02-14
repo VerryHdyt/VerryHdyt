@@ -40,7 +40,7 @@
   <img src="https://streak-stats.demolab.com?user=VerryHdyt&hide_border=true" />
 </p>
 
----
+
 
 ## 🌱 Currently Exploring
 
@@ -48,20 +48,7 @@
 - Database Optimization  
 - Web Application Development  
 
----
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/VerryHdyt">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/USERNAME_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
