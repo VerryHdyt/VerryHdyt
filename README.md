@@ -1,63 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,50:075985,100:00B4D8&height=190&section=header&text=Ferry%20Hidayat&fontSize=42&fontColor=E6F7FF&fontAlignY=38&desc=Informatics%20Engineering%20Student&descAlignY=60&descSize=16" width="100%" alt="Blue wave header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:052e16,100:14532d&height=180&section=header&text=FERRY%20HIDAYAT&fontSize=42&fontColor=86efac&fontAlignY=42&desc=INFORMATICS%20%2F%20CODE%20%2F%20CREATE&descSize=13&descColor=a7f3d0&descAlignY=65" width="100%" alt="Terminal green header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hello%2C+World!;I+love+building+things+with+code.;Learning+something+new+every+day." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=86EFAC&center=true&vCenter=true&width=600&lines=%24+whoami;Informatics+Engineering+Student;%24+echo+%22Keep+learning.+Keep+building.%22" alt="Terminal typing animation" />
 
 <br/>
 
-<img src="lain.gif" width="190" alt="Profile animation" />
+<img src="lain.gif" width="170" alt="Profile animation" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=VerryHdyt&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge)](https://github.com/VerryHdyt)
+<img src="https://komarev.com/ghpvc/?username=VerryHdyt&style=flat-square&color=166534&label=VISITORS" alt="Profile visitors" />
 
 </div>
 
 ---
 
-## whoami
+### ~/about
 
-| Field | Details |
-|:--|:--|
-| Name | Ferry Hidayat |
-| Role | Informatics Engineering Student |
-| Interests | Web Development • Software Engineering • Linux |
-| Mindset | Learn, build, break, fix, repeat. |
+```bash
+ferry@github:~$ neofetch
 
-- 🎓 Studying Informatics Engineering.
-- 💻 Interested in building useful applications and exploring how software works.
-- 🌱 Currently learning and improving through hands-on projects.
-- ⚡ I enjoy experimenting with code, databases, and developer tools.
+       .--.          USER      Ferry Hidayat
+      |o_o |         ROLE      Informatics Student
+      |:_/ |         FOCUS     Web Development
+     //   \\         INTEREST  Linux • Open Source
+    (|     | )        STATUS    Always learning
+   /'\\_   _/`\\
+   \\___)=(___/
+```
 
-## tech-stack
+- Building and learning through real-world coding projects.
+- Interested in web applications, backend development, and databases.
+- Exploring Linux, developer tools, and open-source software.
+- Believe in consistency: write code, solve problems, repeat.
+
+### ~/toolbox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,vscode&theme=dark" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,vscode&theme=dark" alt="PHP, Laravel, MySQL, Git, GitHub, Linux and VS Code" />
 
 </div>
 
-## github-stats
+### ~/github
 
 <div align="center">
 
 <a href="https://github.com/VerryHdyt">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VerryHdyt&show_icons=true&hide_border=true&bg_color=050B14&title_color=38BDF8&icon_color=22D3EE&text_color=D6EAF8&rank_icon=github" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VerryHdyt&show_icons=true&hide_border=true&bg_color=020617&title_color=86EFAC&icon_color=4ADE80&text_color=CFFFE0&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/VerryHdyt">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VerryHdyt&layout=compact&hide_border=true&bg_color=050B14&title_color=38BDF8&text_color=D6EAF8" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VerryHdyt&layout=compact&hide_border=true&bg_color=020617&title_color=86EFAC&text_color=CFFFE0" alt="Most used languages" />
 </a>
 
 <br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=VerryHdyt&hide_border=true&background=050B14&ring=0284C7&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=D6EAF8&dates=8AA4B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak stats" />
+<img width="82%" src="https://streak-stats.demolab.com?user=VerryHdyt&hide_border=true&background=020617&ring=22C55E&fire=86EFAC&currStreakLabel=86EFAC&sideLabels=CFFFE0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VerryHdyt&bg_color=050B14&color=D6EAF8&line=0284C7&point=22D3EE&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=VerryHdyt&bg_color=020617&color=CFFFE0&line=22C55E&point=86EFAC&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
@@ -65,16 +68,18 @@
 
 <div align="center">
 
-### let's_connect
+### ~/connect
 
 <a href="https://github.com/VerryHdyt">
-  <img src="https://img.shields.io/badge/GitHub-VerryHdyt-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GITHUB-VerryHdyt-052e16?style=for-the-badge&logo=github&logoColor=86efac" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<sub><i>“The best way to learn is to build something.”</i></sub>
+<sub><code>printf("Thanks for visiting. Have a great day!\n");</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:075985,100:071A2C&height=100&section=footer" width="100%" alt="Blue wave footer" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:14532d,100:020617&height=3&section=footer" width="100%" alt="" />
 
 </div>
