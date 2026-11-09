@@ -45,24 +45,7 @@ ferry@github:~$ neofetch
 
 ### ~/github
 
-<div align="center">
 
-<a href="https://github.com/VerryHdyt">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VerryHdyt&show_icons=true&hide_border=true&bg_color=020617&title_color=86EFAC&icon_color=4ADE80&text_color=CFFFE0&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/VerryHdyt">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VerryHdyt&layout=compact&hide_border=true&bg_color=020617&title_color=86EFAC&text_color=CFFFE0" alt="Most used languages" />
-</a>
-
-<br/>
-
-<img width="82%" src="https://streak-stats.demolab.com?user=VerryHdyt&hide_border=true&background=020617&ring=22C55E&fire=86EFAC&currStreakLabel=86EFAC&sideLabels=CFFFE0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=VerryHdyt&bg_color=020617&color=CFFFE0&line=22C55E&point=86EFAC&area=true&hide_border=true" alt="GitHub activity graph" />
-
-</div>
 
 ---
 
