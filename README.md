@@ -76,24 +76,24 @@ Projects are small steps toward understanding how software works — from algori
 
 **OVERVIEW**
 
-<img src="https://github-readme-stats.vercel.app/api?username=VerryHdyt&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e5e7eb&icon_color=9ca3af&text_color=cbd5e1&rank_icon=github" width="100%" alt="GitHub overview statistics">
+<img src="https://github-stats-extended.vercel.app/api?username=VerryHdyt&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e5e7eb&icon_color=9ca3af&text_color=cbd5e1&rank_icon=github" width="100%" alt="GitHub overview statistics">
 
 </td>
 <td width="50%" valign="top">
 
 **LANGUAGES**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VerryHdyt&layout=compact&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=cbd5e1" width="100%" alt="Most used languages">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VerryHdyt&layout=compact&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=cbd5e1" width="100%" alt="Most used languages">
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VerryHdyt&theme=dark&hide_border=true&background=0D1117&ring=9ca3af&fire=9ca3af&currStreakLabel=e5e7eb" width="80%" alt="Contribution streak">
-
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VerryHdyt&bg_color=0d1117&color=cbd5e1&line=9ca3af&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" width="98%" alt="Contribution timeline">
+**CONTRIBUTION STREAK**
+
+<img src="https://streak-stats.demolab.com?user=VerryHdyt&theme=dark&hide_border=true&background=0D1117&ring=9ca3af&fire=9ca3af&currStreakLabel=e5e7eb" width="80%" alt="Contribution streak">
 
 </div>
 
